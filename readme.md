@@ -32,9 +32,6 @@ Run your poultry operations with fewer manual errors and faster daily decisions.
 ## Start Here
 
 - Website: [https://layertrack.flixworld.xyz/](https://layertrack.flixworld.xyz/)
-- Get started guide: [https://layertrack.flixworld.xyz/get-started](https://layertrack.flixworld.xyz/get-started)
-- About: [https://layertrack.flixworld.xyz/about-us](https://layertrack.flixworld.xyz/about-us)
-- Contact: [https://layertrack.flixworld.xyz/contact](https://layertrack.flixworld.xyz/contact)
 
 ## Keywords
 
