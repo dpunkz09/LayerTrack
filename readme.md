@@ -1,39 +1,52 @@
-# LayerTrack - Poultry Farm App
+# LayerTrack
 
-Run your poultry operations with fewer manual errors and faster daily decisions.
+---
 
-**LayerTrack** is a mobile app for egg layer farms to manage production, feed, sales, customers, and day-to-day farm records in one place.
+## What Is LayerTrack?
 
-## Why farmers use LayerTrack
+LayerTrack is an Android app built for small to medium layer chicken farms. It replaces paper logbooks and spreadsheets with a clean, fast, offline-first tool that keeps all your farm records in one place.
 
-- Keep daily records organized and easy to review
-- Track egg output and feed usage with less guesswork
-- Monitor sales and customer balances in real time
-- See farm performance quickly through practical dashboard stats
+Whether you're running a single backyard flock or managing multiple batches across a commercial operation, LayerTrack helps you stay on top of your numbers — daily production, feed costs, sales revenue, and the return on your startup investment.
 
-## Core Features
+---
 
-- **Flock management** for active flock records and events
-- **Egg production logging** including per-size records
-- **Feed tracking** with consumption and feed receipt entries
-- **Sales and customer records** in a simple mobile workflow
-- **Dashboard insights** for today stats, estimated values, and profit indicators
-- **Support/ticket screen** for reporting issues and receiving replies
-- **Push notifications** for report updates and announcements
-- **In-app update prompts** for newer Android APK releases
-- **Light and dark mode** for better day/night usability
+## What You Can Do
 
-## Perfect For
+- **Record daily egg production** by size grade: Small, Medium, Large, and Extra Large. Track cracked eggs and daily mortality in the same entry.
+- **Manage multiple flocks** with individual bird counts, breed info, and event histories covering mortality, culls, vaccinations, purchases, and more.
+- **Monitor feed** from purchase receipt through daily consumption. See your available stock, cost per kg, and how much feed each flock is using.
+- **Record sales** with flexible per-tray or per-piece pricing, linked to named customers or logged as walk-in. Track payment method and keep a running history per customer.
+- **Understand your business** through the dashboard — today's snapshot, monthly trends, all-time profit from sales, potential value of unsold eggs, and an ROI tracker that projects how long it will take to recover your startup investment.
 
-- Egg layer farm owners
-- Farm managers and staff who encode records daily
-- Small to medium poultry operations that want better visibility
+---
 
-## Start Here
+## Built for Offline Use
 
-- Website: [https://layertrack.qzz.io/](https://layertrack.qzz.io/)
+LayerTrack stores everything in a local database on your device. No internet connection is needed for any feature. No account. No subscription. Your farm data never leaves your phone.
 
-## Keywords
+---
 
-`poultry farm app`, `egg production tracking`, `layer farm management`, `feed consumption tracker`, `egg sales record app`, `farm record keeping app`, `poultry dashboard`, `android poultry app`, `poultry business management`
+## Developer
 
+LayerTrack is developed and maintained by **Jhon Peter**, an independent developer based in the Philippines.
+
+- Email: [contact@jpaworx.com](mailto:contact@jpaworx.com)
+- Website: [jpaworx.com](https://jpaworx.com)
+- Facebook: [facebook.com/jpaworx](https://facebook.com/jpaworx)
+
+---
+
+## Legal
+
+- [Privacy Policy](PrivacyPolicy.md)
+- [Terms of Service](TermsOfService.md)
+
+---
+
+## Feedback
+
+Found a bug? Have a feature request? Send an email to [contact@jpaworx.com](mailto:contact@jpaworx.com) or leave a review on the Play Store. Your feedback directly shapes what gets built next.
+
+---
+
+*LayerTrack is not affiliated with any feed brand, poultry association, or government agricultural body.*
